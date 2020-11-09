@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-vs-Computer
-Minimax alpha beta pruning to play tic tac toe
+Minimax alpha beta pruning to play tic tac toe.
+It's kinda boring since you'll never win...
